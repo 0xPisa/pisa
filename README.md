@@ -1,4 +1,4 @@
-<h1 align="center"> Hi! Welcome to my Github! </h1>
+<h1 align="center"> Hello! 👋 </h1>
 <p align="center"> I'm Pisa, it's just a nickname for Crypto Twitter. <p>
 <p align="center">I'm a fullstack engineer, currently building projects to gain experience. <p>
 
