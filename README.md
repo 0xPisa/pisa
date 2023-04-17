@@ -6,7 +6,7 @@ Full-Stack Developer
 Currently building out projects to gain more experience
 
 * 🗽  I'm based in Brooklyn, NY
-* 🖥️  You may see my portfolio [here](http://danielcranney.com)
+* 🖥️  You may see my portfolio [here](https://muyinjon.vercel.app/)
 * ✉️  You can contact me at [muyinjonnaimov@gmail.com](mailto:muyinjonnaimov@gmail.com)
 
 ### Skills
